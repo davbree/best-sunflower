@@ -3,7 +3,7 @@ import Router from 'next/router';
 import _ from 'lodash';
 
 import { Link, withPrefix, classNames, getPageUrl } from '../utils';
-import Action from './Action';
+import Action from './Action2';
 import Icon from './Icon';
 
 export default class Header extends React.Component {
