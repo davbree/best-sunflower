@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import Action from './Action';
+import Action from './Action2';
 
 export default class SectionActions extends React.Component {
     render() {
