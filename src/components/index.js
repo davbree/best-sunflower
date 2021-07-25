@@ -1,4 +1,4 @@
-import Action from './Action';
+import Action from './Action2';
 import BlogFeedSection from './BlogFeedSection';
 import BlogPostCategories from './BlogPostCategories';
 import BlogPostMeta from './BlogPostMeta';
@@ -17,7 +17,6 @@ import TeamSection from './TeamSection';
 
 export {
     Action,
-    Action2,
     BlogFeedSection,
     BlogPostCategories,
     BlogPostMeta,
