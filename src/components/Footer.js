@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import Action from './Action';
+import Action from './Action2';
 import { htmlToReact } from '../utils';
 
 export default class Footer extends React.Component {
